@@ -1,0 +1,11 @@
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\bin\Debug\Musteri_class_app.exe.config
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\bin\Debug\Musteri_class_app.exe
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\bin\Debug\Musteri_class_app.pdb
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.csproj.AssemblyReference.cache
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.Login.resources
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.Properties.Resources.resources
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.csproj.GenerateResource.cache
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.csproj.CoreCompileInputs.cache
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.exe
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.pdb
+C:\Users\erole\source\repos\Musteri_class_app\Musteri_class_app\obj\Debug\Musteri_class_app.Anasayfa.resources
